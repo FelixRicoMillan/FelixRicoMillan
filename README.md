@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @FelixRicoMillan.
 - 👀 I’m interested in bioinformatics.
-- 🌱 I’m currently learning Master in Bioinformatics.
-- 💞️ I’m looking to collaborate on clustering
-- 📫 How to reach me ...
+- 🌱 I’m currently study Python in UOC
+- 💞️ I’m looking to collaborate on data analysis.
+- 📫 How to reach me is by mail: felixrico@hotmail.com.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
